@@ -21,4 +21,6 @@ Por exemplo: A variavél (resultado) recebe o valor da soma do (valor1) + valor 
 
 ![image](https://user-images.githubusercontent.com/109484017/205513877-14cab3ae-2061-4a56-b168-69563f803fd5.png)
 
+No botão C, ele limpa o display jogando uma texto vazio entre "".
 
+![image](https://user-images.githubusercontent.com/109484017/205514155-006589cd-a6bb-452d-ac79-f67cb16747d9.png)
