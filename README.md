@@ -1,4 +1,4 @@
-# Calculadora criada utilizando a linguagem c# com winForm para criação do layout.
+# Calculadora criada utilizando a linguagem c# no Visual Studio com winForm para criação do layout.
 
 ![image](https://user-images.githubusercontent.com/109484017/205513226-06b244e9-fb41-47e2-83ec-a5dfe42485d0.png)
 
